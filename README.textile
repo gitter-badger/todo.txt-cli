@@ -1,5 +1,7 @@
 h1. TODO.TXT Command Line Interface !https://secure.travis-ci.org/ginatrapani/todo.txt-cli.png?branch=master(Build Status)!:http://travis-ci.org/ginatrapani/todo.txt-cli
 
+!https://badges.gitter.im/todotxt/todo.txt-cli.svg(Join the chat at https://gitter.im/todotxt/todo.txt-cli)!:https://gitter.im/todotxt/todo.txt-cli?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
 A simple and extensible shell script for managing your todo.txt file.
 
 h2. "Downloads":http://github.com/ginatrapani/todo.txt-cli/downloads
